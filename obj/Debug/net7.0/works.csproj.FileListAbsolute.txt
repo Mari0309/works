@@ -1,0 +1,15 @@
+C:\Users\Masha\Desktop\works\bin\Debug\net7.0\works.exe
+C:\Users\Masha\Desktop\works\bin\Debug\net7.0\works.deps.json
+C:\Users\Masha\Desktop\works\bin\Debug\net7.0\works.runtimeconfig.json
+C:\Users\Masha\Desktop\works\bin\Debug\net7.0\works.dll
+C:\Users\Masha\Desktop\works\bin\Debug\net7.0\works.pdb
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.csproj.AssemblyReference.cache
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.AssemblyInfoInputs.cache
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.AssemblyInfo.cs
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.csproj.CoreCompileInputs.cache
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.dll
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\refint\works.dll
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.pdb
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\works.genruntimeconfig.cache
+C:\Users\Masha\Desktop\works\obj\Debug\net7.0\ref\works.dll
