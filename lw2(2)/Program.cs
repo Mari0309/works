@@ -1,6 +1,6 @@
-﻿
-using System;
+﻿using System;
 using System.Text.RegularExpressions;
+
 namespace ConsoleApplication
 {
     class Program
